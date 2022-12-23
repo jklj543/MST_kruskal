@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.exe
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.deps.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.runtimeconfig.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.dll
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\bin\Debug\netcoreapp3.1\kruskal.pdb
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.dll
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.pdb
+C:\Users\DELL\OneDrive\سطح المكتب\algo\kruskal\kruskal\obj\Debug\netcoreapp3.1\kruskal.genruntimeconfig.cache
